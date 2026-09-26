@@ -76,11 +76,11 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 8.3vw;
 }
-#one {background-color:#BDB76B;}
+#one {background-color:#DA70D6;}
 #two {background-color:#E9967A;}
 #three {background-color:#5F9EA0;}
 #four {background-color:#8FBC8F;}
-#five {background-color:#191970;}
+#five {background-color:#DAA520;}
 section {
   position: relative;
   display: block;
@@ -229,6 +229,7 @@ img {
     color: #FFFFF0;
   }  
 }
+/*параметры для десктопа*/
 @media only screen and (min-width:990px) {
   
 ul {
@@ -262,7 +263,7 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 80px;
 }
-#one {background-color:#BDB76B;}
+#one {background-color:#DA70D6;}
 #two {background-color:#E9967A;}
 #three {background-color:#5F9EA0;}
 #four {background-color:#8FBC8F;}
